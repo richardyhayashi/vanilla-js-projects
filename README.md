@@ -12,7 +12,7 @@ x Intro
 02. Counter
 03. Reviews
 04. Navbar
-05.
+05. Sidebar
 06.
 07.
 08.
