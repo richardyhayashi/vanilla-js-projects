@@ -13,7 +13,7 @@ x Intro
 03. Reviews
 04. Navbar
 05. Sidebar
-06.
+06. Modal
 07.
 08.
 09.
