@@ -5,12 +5,12 @@
 
 `Build 15 JavaScript Projects - Vanilla JavaScriipt Course` by `freeCodeCamp`, `John Smilga`
 
-Source:  'https://github.com/john-smilga/javascript-basic-projects'
+Source: 'https://github.com/john-smilga/javascript-basic-projects'
 
 x Intro
 01. Color Flipper
-02.
-03.
+02. Counter
+03. Reviews
 04.
 05.
 06.
