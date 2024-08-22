@@ -14,7 +14,7 @@ x Intro
 04. Navbar
 05. Sidebar
 06. Modal
-07.
+07. Questions
 08.
 09.
 10.
