@@ -23,3 +23,7 @@ x Intro
 13.
 14.
 15.
+
+Notes:
+VS Code
+* Select multiple cursors: `Alt + Click` or `Ctrl + Alt + Arrow`
