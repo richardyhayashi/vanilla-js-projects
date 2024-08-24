@@ -19,11 +19,12 @@ x Intro
 09. Video
 10. Scroll
 11. Tabs
-12.
+12. Countdown
 13.
 14.
 15.
 
 Notes:
-VS Code
+
+### VS Code
 * Select multiple cursors: `Alt + Click` or `Ctrl + Alt + Arrow`
