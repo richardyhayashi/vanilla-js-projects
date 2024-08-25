@@ -22,7 +22,7 @@ x Intro
 12. Countdown
 13. Lorem Ipsum
 14. Grocery
-15.
+15. Slider
 
 Notes:
 
