@@ -10,7 +10,7 @@ Source: 'https://github.com/bradtraversy/50projects50days'
 02. Vertical Slider
 03. Random Choice Picker
 04. Live User Filter
-05.
+05. Content Placeholder
 
 ## Notes
 
