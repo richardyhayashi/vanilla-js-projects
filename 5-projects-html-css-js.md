@@ -9,5 +9,11 @@ Source: 'https://github.com/bradtraversy/50projects50days'
 01. Blurry Loading
 02. Vertical Slider
 03. Random Choice Picker
-04.
+04. Live User Filter
 05.
+
+## Notes
+
+### Dummy Data
+
+`https://randomuser.me`
