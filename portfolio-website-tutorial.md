@@ -8,7 +8,7 @@ Source: 'https://github.com/Maclinz/JS_CSS_PortfolioProject'
 
 1. Introduction
 2. Switch Between Sections
-3.
+3. Header Content
 4.
 5.
 6.
